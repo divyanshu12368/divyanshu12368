@@ -12,7 +12,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 🚀 About Me
 
-- 🎓 Second-Year B.Tech (Computer Science)
+- 🎓 Third-Year B.Tech (Computer Science)
 - 💻 Passionate about Software Development
 - 🤖 Interested in Fullstack Development
 - 🌱 Currently learning Backend & Data Structures
